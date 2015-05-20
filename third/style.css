@@ -1,0 +1,56 @@
+body, html {
+  height: 100%;
+  width: 85%;
+  margin: 0 auto;
+}
+
+.header {
+  width: 100%;
+  height: 150px;
+  background: gray;
+  display: flex;
+  -ms-align-items: center;
+  align-items: center;
+  padding-left: 25px;
+}
+
+.littleBox {
+  height: 100px;
+  width: 100px;
+  background: blue;
+}
+
+.content {
+  width: 100%;
+}
+
+.bacon {
+  width: 85%;
+  margin: 30px auto;
+}
+
+.container {
+  height: 70%;
+  width: 100%;
+}
+
+.bar {
+  width: 100%;
+  height: 25%;
+}
+
+.one {
+  background: red;
+}
+
+.two {
+  background: green;
+}
+
+.three {
+  background: orange;
+}
+
+.four {
+  background: yellow;
+}

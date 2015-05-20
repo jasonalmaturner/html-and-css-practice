@@ -1,0 +1,35 @@
+body, html {
+  height: 100%;
+  width: 100%;
+  margin: 0;
+}
+
+.header {
+  width: 100%;
+  height: 200px;
+  background: black;
+}
+
+.container {
+  width: 100%;
+  height: 800px;
+  background: grey;
+}
+
+.content {
+  width: 85%;
+  height: 100%;
+  margin: 0 auto;
+}
+
+.top {
+  width: 100%;
+  height: 85%;
+  background: white;
+}
+
+.bottom {
+  width: 100%;
+  height: 15%;
+  background: black;
+}
